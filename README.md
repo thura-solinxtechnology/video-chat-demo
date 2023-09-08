@@ -17,3 +17,5 @@
 ```
 
 and then copy the **Forwarding URL** and paste in **scripts/index.js**.
+
+### Open the Forwarding URL in browser.
