@@ -1,5 +1,7 @@
 # Video Chat Demo
 
+**Your machine is already installed NodeJs.**
+
 ## Pre Requirements
 
 ```bash
